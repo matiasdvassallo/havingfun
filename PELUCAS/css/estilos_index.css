@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "bodoni-mt-poster-compressed";
+    src: url("../fonts/BOD_PSTC.ttf") format("truetype");
+}
+
+body {
+    background-color: black;
+    font-family: "bodoni-mt-poster-compressed", serif;
+    text-align: center;
+    color: white;
+    margin: auto
+}
+
+h1 {
+    font-size: 10rem;
+}
