@@ -6,7 +6,7 @@ body {
     background-color: black;
     text-align: center;
     margin: auto;
-    background-image: url(../img/fondo1.png);
+    background-image: url(../img/fondo3.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
@@ -17,7 +17,7 @@ header {
 }
 
 h1 {
-    font-size: 12rem;
+    font-size: 9rem;
     font-family: Helvetica, sans-serif;
     font-weight: bold;
     font-style: normal;
@@ -27,11 +27,19 @@ h1 span {
     font-size: 2rem;
 }
 
+nav {
+    display: inline-block;
+    font-size: 2rem;
+    font-family: Helvetica Mono, monospace;
+    font-weight: bold;
+    font-style: normal;
+    margin: auto;
+}
+
 ul {
     list-style: none;
     margin: auto;
     text-align: justify;
-    margin-left: 630px;
 }
 
 li {
@@ -55,27 +63,10 @@ a:active {
     color: #bb0000;
 }
 
-
-nav {
-    font-size: 3rem;
-    font-family: Helvetica Mono, monospace;
-    font-weight: bold;
-    font-style: normal;
+iframe {
+    margin-top: 50px;
+    border-color: 5px solid #bb0000;
+    transform: scale(1.4);
 }
-
-footer {
-    color: #bb0000;
-    font-family: Helvetica, sans-serif;
-    font-weight: bold;
-    font-style: normal;
-    font-size: 1.2rem;
-    padding: 0;
-    margin: 0;
-    margin-top: 140px;
-}
-
-
-
-
 
 
