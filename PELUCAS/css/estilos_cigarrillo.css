@@ -65,7 +65,7 @@ a:active {
 
 iframe {
     margin-top: 50px;
-    border-color: 5px solid #bb0000;
+    border: 5px solid #bb0000;
     transform: scale(1.4);
 }
 
