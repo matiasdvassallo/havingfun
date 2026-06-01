@@ -1,1 +1,1 @@
-# havingfun
+Let me have fun.
